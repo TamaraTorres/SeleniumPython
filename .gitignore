@@ -1,0 +1,4 @@
+.idea
+/reports
+Selenium_test/__pycache__/
+geckodriver.log
